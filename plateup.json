@@ -1,0 +1,18 @@
+{
+    "kitchens": [
+        {
+            "url": "https://plateuptools.com/kitchen-designer/view/2NTU3OTQzMTU1OjQ0NzQzNzE2MzoyLDI7MSwzOjIyLDEyOjIuMTIwLDEuMTQ0OjEsLTEsMSwwLDM7OSwwLDEwLDAsMjs5LDEsMTAsMSwyOzksMiwxMCwyLDI7OSwzLDEwLDMsMjs5LDQsMTAsNCwyOzksNSwxMCw1LDI7OSw2LDEwLDYsMjs5LDcsMTAsNywyOzksOCwxMCw4LDI7OSw5LDEwLDksMjs5LDEwLDEwLDEwLDI7OSwxMSwxMCwxMSwxOg==",
+            "data": "2NTU3OTQzMTU1OjQ0NzQzNzE2MzoyLDI7MSwzOjIyLDEyOjIuMTIwLDEuMTQ0OjEsLTEsMSwwLDM7OSwwLDEwLDAsMjs5LDEsMTAsMSwyOzksMiwxMCwyLDI7OSwzLDEwLDMsMjs5LDQsMTAsNCwyOzksNSwxMCw1LDI7OSw2LDEwLDYsMjs5LDcsMTAsNywyOzksOCwxMCw4LDI7OSw5LDEwLDksMjs5LDEwLDEwLDEwLDI7OSwxMSwxMCwxMSwxOg==",
+            "mod_version": "1.0.1"
+        }
+    ],
+    "seeds": {
+        "my6yxg7m": [
+            "All You Can Eat",
+            "Afforable",
+            "Dinner Rush",
+            "Herd Mentality",
+            "Discounts"
+        ]
+    }
+}
